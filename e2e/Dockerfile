@@ -17,7 +17,7 @@ COPY . .
 WORKDIR /usr/src/app/e2e
 RUN make e2e-bin
 
-FROM alpine:3.15.0
+FROM alpine:3.20.3
 RUN apk add -U --no-cache \
     ca-certificates \
     bash \
