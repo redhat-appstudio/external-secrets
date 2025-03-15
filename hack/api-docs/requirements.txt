@@ -2,7 +2,7 @@ Click==8.0.3
 htmlmin==0.1.12
 Jinja2==3.0.3
 jsmin==3.0.1
-livereload==2.6.3
+livereload==2.7.1
 Markdown==3.3.6
 MarkupSafe==2.0.1
 mkdocs==1.4.3
