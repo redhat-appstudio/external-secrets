@@ -80,8 +80,8 @@ github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/akeylesslabs/akeyless-go-cloud-id v0.3.4 h1:vTckjyBhHOBiOWSC/oaEU2Oo4OH5eAlQiwKu2RMxsFg=
 github.com/akeylesslabs/akeyless-go-cloud-id v0.3.4/go.mod h1:As/RomC2w/fa3y+yHRlVHPmkbP+zrKBFRow41y5dk+E=
-github.com/akeylesslabs/akeyless-go/v3 v3.3.12 h1:LJWtTFQv7bcHhtk9AARywVUoaJtw9A/xcZWV5WkI4iw=
-github.com/akeylesslabs/akeyless-go/v3 v3.3.12/go.mod h1:xcSXQWFRzKupIPCFRd9/mFYW0lHnDnWVvMD/pQ0x7sU=
+github.com/akeylesslabs/akeyless-go/v3 v3.6.3 h1:fMF8SMDiBL9CufVjLUyF1Z+Z04t5CC3KGOROSjaJ/eA=
+github.com/akeylesslabs/akeyless-go/v3 v3.6.3/go.mod h1:xcSXQWFRzKupIPCFRd9/mFYW0lHnDnWVvMD/pQ0x7sU=
 github.com/aliyun/alibaba-cloud-sdk-go v1.62.271 h1:0QmSDMovuCyUbYp70MZHoTi/GYnHb/wYEIIBqoVsCjs=
 github.com/aliyun/alibaba-cloud-sdk-go v1.62.271/go.mod h1:Api2AkmMgGaSUAhmk76oaFObkoeCPc/bKAqcyplPODs=
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
