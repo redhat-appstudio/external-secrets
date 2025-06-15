@@ -102,7 +102,7 @@ require (
 	github.com/hashicorp/go-secure-stdlib/awsutil v0.2.2 // indirect
 	github.com/hashicorp/go-uuid v1.0.3 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
-	github.com/tjfoc/gmsm v1.4.1 // indirect
+	github.com/tjfoc/gmsm v1.3.2 // indirect
 	github.com/zalando/go-keyring v0.2.3 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230629202037-9506855d4529 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230629202037-9506855d4529 // indirect
