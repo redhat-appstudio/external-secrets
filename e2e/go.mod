@@ -45,8 +45,8 @@ require (
 	github.com/aws/aws-sdk-go v1.44.294
 	github.com/external-secrets/external-secrets v0.0.0
 	github.com/fluxcd/helm-controller/api v0.22.2
-	github.com/fluxcd/pkg/apis/meta v0.14.2
-	github.com/fluxcd/source-controller/api v0.25.11
+	github.com/fluxcd/pkg/apis/meta v0.19.1
+	github.com/fluxcd/source-controller/api v0.36.1
 	github.com/golang-jwt/jwt/v4 v4.5.0
 	github.com/hashicorp/vault/api v1.9.2
 	github.com/onsi/ginkgo/v2 v2.11.0
@@ -86,7 +86,7 @@ require (
 	github.com/dimchansky/utfbom v1.1.1 // indirect
 	github.com/emicklei/go-restful/v3 v3.10.2 // indirect
 	github.com/evanphx/json-patch/v5 v5.6.0 // indirect
-	github.com/fluxcd/pkg/apis/acl v0.0.3 // indirect
+	github.com/fluxcd/pkg/apis/acl v0.1.0 // indirect
 	github.com/fluxcd/pkg/apis/kustomize v0.4.1 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.0 // indirect
