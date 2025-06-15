@@ -143,8 +143,8 @@ github.com/fluxcd/pkg/apis/acl v0.0.3 h1:Lw0ZHdpnO4G7Zy9KjrzwwBmDZQuy4qEjaU/RvA6
 github.com/fluxcd/pkg/apis/acl v0.0.3/go.mod h1:XPts6lRJ9C9fIF9xVWofmQwftvhY25n1ps7W9xw0XLU=
 github.com/fluxcd/pkg/apis/kustomize v0.4.1 h1:YgIF9TJ23pH66W/gYlEu+DeH1pU3tS4xYlRc5AQzk58=
 github.com/fluxcd/pkg/apis/kustomize v0.4.1/go.mod h1:U9rfSgDHaQd74PgPKt9DprtuzT+i1m18zlHxatq7c5Y=
-github.com/fluxcd/pkg/apis/meta v0.14.2 h1:/Hf7I/Vz01vv3m7Qx7DtQvrzAL1oVt0MJcLb/I1Y1HE=
-github.com/fluxcd/pkg/apis/meta v0.14.2/go.mod h1:ijZ61VG/8T3U17gj0aFL3fdtZL+mulD6V8VrLLUCAgM=
+github.com/fluxcd/pkg/apis/meta v0.19.1 h1:fCI5CnTXpAqr67UlaI9q0H+OztMKB5kDTr6xV6vlAo0=
+github.com/fluxcd/pkg/apis/meta v0.19.1/go.mod h1:ZPPMYrPnWwPQYNEGM/Uc0N4SurUPS3xNI3IIpCQEfuM=
 github.com/fluxcd/source-controller/api v0.25.11 h1:1YbH5vlQ1k96tbRKTdQHCBsBVMgpp/QaRpKG/r29koQ=
 github.com/fluxcd/source-controller/api v0.25.11/go.mod h1:5kihSWjg+gIXLPTTXbe6AnY+g+iDmP+CY4g6nFqublc=
 github.com/fsnotify/fsnotify v1.6.0 h1:n+5WquG0fcWoWp6xPWfHdbskMCQaFnG6PfBrh1Ky4HY=

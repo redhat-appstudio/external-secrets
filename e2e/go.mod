@@ -45,7 +45,7 @@ require (
 	github.com/aws/aws-sdk-go v1.44.294
 	github.com/external-secrets/external-secrets v0.0.0
 	github.com/fluxcd/helm-controller/api v0.22.2
-	github.com/fluxcd/pkg/apis/meta v0.14.2
+	github.com/fluxcd/pkg/apis/meta v0.19.1
 	github.com/fluxcd/source-controller/api v0.25.11
 	github.com/golang-jwt/jwt/v4 v4.5.0
 	github.com/hashicorp/vault/api v1.9.2
