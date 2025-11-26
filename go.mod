@@ -1,6 +1,6 @@
 module github.com/external-secrets/external-secrets
 
-go 1.19
+go 1.24
 
 require (
 	cloud.google.com/go/iam v1.1.1
@@ -99,7 +99,7 @@ require (
 	github.com/go-playground/validator/v10 v10.14.1 // indirect
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/google/s2a-go v0.1.4 // indirect
-	github.com/hashicorp/go-secure-stdlib/awsutil v0.2.2 // indirect
+	github.com/hashicorp/go-secure-stdlib/awsutil v0.1.6 // indirect
 	github.com/hashicorp/go-uuid v1.0.3 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/tjfoc/gmsm v1.4.1 // indirect
@@ -155,7 +155,7 @@ require (
 	github.com/googleapis/enterprise-certificate-proxy v0.2.5 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	github.com/hashicorp/go-hclog v1.5.0 // indirect
+	github.com/hashicorp/go-hclog v1.6.3 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/go-retryablehttp v0.7.4
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
