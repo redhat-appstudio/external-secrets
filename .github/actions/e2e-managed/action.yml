@@ -6,7 +6,7 @@ runs:
   steps:
 
     # create new status check for this specific provider
-    - uses: actions/github-script@v6
+    - uses: actions/github-script@v9
       with:
         github-token: ${{ env.GITHUB_TOKEN }}
         script: |
