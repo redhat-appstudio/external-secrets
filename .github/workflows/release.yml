@@ -92,13 +92,13 @@ jobs:
           echo "::set-output name=mod-cache::$(go env GOMODCACHE)"
 
       - name: Cache the Go Build Cache
-        uses: actions/cache@v3
+        uses: actions/cache@v6
         with:
           path: ${{ steps.go.outputs.build-cache }}
           key: ${{ runner.os }}-build-${{ github.sha }}-${{ hashFiles('**/go.sum') }}
 
       - name: Cache Go Dependencies
-        uses: actions/cache@v3
+        uses: actions/cache@v6
         with:
           path: ${{ steps.go.outputs.mod-cache }}
           key: ${{ runner.os }}-mod-${{ github.sha }}-${{ hashFiles('**/go.sum') }}
