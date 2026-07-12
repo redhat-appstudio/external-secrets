@@ -1,6 +1,6 @@
 module github.com/external-secrets/external-secrets
 
-go 1.19
+go 1.23
 
 require (
 	cloud.google.com/go/iam v1.1.1
@@ -106,6 +106,7 @@ require (
 	github.com/zalando/go-keyring v0.2.3 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230629202037-9506855d4529 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230629202037-9506855d4529 // indirect
+	sigs.k8s.io/structured-merge-diff/v4 v4.2.3 // indirect
 )
 
 require (
@@ -227,5 +228,4 @@ require (
 	k8s.io/klog/v2 v2.100.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20230523194449-df37dd07aa00 // indirect
 	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
-	sigs.k8s.io/structured-merge-diff/v4 v4.2.3 // indirect
 )

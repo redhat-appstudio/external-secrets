@@ -1,6 +1,6 @@
 module github.com/external-secrets/external-secrets-e2e
 
-go 1.18
+go 1.23
 
 replace github.com/external-secrets/external-secrets => ../
 
