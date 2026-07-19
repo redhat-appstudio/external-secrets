@@ -46,7 +46,7 @@ runs:
         password: ${{ inputs.GHCR_TOKEN }}
 
     - name: Setup Go
-      uses: actions/setup-go@v3
+      uses: actions/setup-go@v7
       with:
         go-version-file: "go.mod"
 
