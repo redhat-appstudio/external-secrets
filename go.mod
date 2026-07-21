@@ -1,6 +1,6 @@
 module github.com/external-secrets/external-secrets
 
-go 1.19
+go 1.25
 
 require (
 	cloud.google.com/go/iam v1.1.1
@@ -78,7 +78,7 @@ require (
 	github.com/keeper-security/secrets-manager-go/core v1.5.2
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.6.2
 	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.17
-	github.com/sethvargo/go-password v0.2.0
+	github.com/sethvargo/go-password v0.4.0
 	github.com/spf13/pflag v1.0.5
 	sigs.k8s.io/yaml v1.3.0
 )
