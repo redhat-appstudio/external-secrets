@@ -1,6 +1,6 @@
 module github.com/external-secrets/external-secrets
 
-go 1.19
+go 1.25
 
 require (
 	cloud.google.com/go/iam v1.1.1
@@ -53,7 +53,7 @@ require (
 	k8s.io/apiextensions-apiserver v0.27.3
 	k8s.io/apimachinery v0.27.3
 	k8s.io/client-go v0.27.3
-	k8s.io/utils v0.0.0-20230505201702-9f6742963106
+	k8s.io/utils v0.0.0-20260707023825-cf1189d6abe3
 	sigs.k8s.io/controller-runtime v0.15.0
 	sigs.k8s.io/controller-tools v0.12.0
 )
