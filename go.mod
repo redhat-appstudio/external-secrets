@@ -34,7 +34,7 @@ require (
 	github.com/oracle/oci-go-sdk/v56 v56.1.0
 	github.com/prometheus/client_golang v1.16.0
 	github.com/prometheus/client_model v0.4.0
-	github.com/spf13/cobra v1.7.0
+	github.com/spf13/cobra v1.10.2
 	github.com/stretchr/testify v1.8.4
 	github.com/tidwall/gjson v1.14.4
 	github.com/xanzy/go-gitlab v0.86.0
@@ -79,7 +79,7 @@ require (
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.6.2
 	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.17
 	github.com/sethvargo/go-password v0.2.0
-	github.com/spf13/pflag v1.0.5
+	github.com/spf13/pflag v1.0.9
 	sigs.k8s.io/yaml v1.3.0
 )
 
