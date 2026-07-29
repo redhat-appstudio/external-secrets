@@ -35,7 +35,7 @@ require (
 	github.com/prometheus/client_golang v1.16.0
 	github.com/prometheus/client_model v0.4.0
 	github.com/spf13/cobra v1.7.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.11.1
 	github.com/tidwall/gjson v1.14.4
 	github.com/xanzy/go-gitlab v0.86.0
 	github.com/yandex-cloud/go-genproto v0.0.0-20230628143002-ac2343960883
@@ -70,7 +70,7 @@ require (
 	github.com/alibabacloud-go/tea v1.2.1
 	github.com/alibabacloud-go/tea-utils/v2 v2.0.3
 	github.com/aliyun/credentials-go v1.3.0
-	github.com/avast/retry-go/v4 v4.3.4
+	github.com/avast/retry-go/v5 v5.0.0
 	github.com/cyberark/conjur-api-go v0.11.1
 	github.com/golang-jwt/jwt/v5 v5.0.0
 	github.com/hashicorp/golang-lru v0.5.4

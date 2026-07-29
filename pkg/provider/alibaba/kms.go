@@ -23,7 +23,7 @@ import (
 	kmssdk "github.com/alibabacloud-go/kms-20160120/v3/client"
 	util "github.com/alibabacloud-go/tea-utils/v2/service"
 	credential "github.com/aliyun/credentials-go/credentials"
-	"github.com/avast/retry-go/v4"
+	"github.com/avast/retry-go/v5"
 	"github.com/tidwall/gjson"
 	corev1 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/types"
