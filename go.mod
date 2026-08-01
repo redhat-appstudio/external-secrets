@@ -1,6 +1,6 @@
 module github.com/external-secrets/external-secrets
 
-go 1.19
+go 1.21
 
 require (
 	cloud.google.com/go/iam v1.1.1
@@ -20,7 +20,7 @@ require (
 	github.com/aws/aws-sdk-go v1.44.294
 	github.com/go-logr/logr v1.2.4
 	github.com/go-test/deep v1.0.4 // indirect
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.7.0
 	github.com/google/uuid v1.3.0
 	github.com/googleapis/gax-go/v2 v2.11.0
 	github.com/hashicorp/vault/api v1.9.2
