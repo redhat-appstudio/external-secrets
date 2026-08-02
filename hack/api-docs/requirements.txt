@@ -3,7 +3,7 @@ htmlmin==0.1.12
 Jinja2==3.0.3
 jsmin==3.0.1
 livereload==2.6.3
-Markdown==3.3.6
+Markdown==3.10.3
 MarkupSafe==2.0.1
 mkdocs==1.4.3
 mike @ git+https://github.com/jimporter/mike@300593c
