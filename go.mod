@@ -77,7 +77,7 @@ require (
 	github.com/hashicorp/vault/api/auth/aws v0.4.1
 	github.com/keeper-security/secrets-manager-go/core v1.5.2
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.6.2
-	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.17
+	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.37
 	github.com/sethvargo/go-password v0.2.0
 	github.com/spf13/pflag v1.0.5
 	sigs.k8s.io/yaml v1.3.0
