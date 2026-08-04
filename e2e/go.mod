@@ -47,7 +47,7 @@ require (
 	github.com/fluxcd/helm-controller/api v0.22.2
 	github.com/fluxcd/pkg/apis/meta v0.14.2
 	github.com/fluxcd/source-controller/api v0.25.11
-	github.com/golang-jwt/jwt/v4 v4.5.0
+	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/hashicorp/vault/api v1.9.2
 	github.com/onsi/ginkgo/v2 v2.11.0
 	github.com/onsi/gomega v1.27.8
