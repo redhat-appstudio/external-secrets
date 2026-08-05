@@ -17,7 +17,7 @@ package cache
 import (
 	"fmt"
 
-	lru "github.com/hashicorp/golang-lru"
+	lru "github.com/hashicorp/golang-lru/v2"
 )
 
 // Cache is a generic lru cache that allows you to
