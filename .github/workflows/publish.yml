@@ -62,7 +62,7 @@ jobs:
       - name: Setup Docker Buildx
         uses: docker/setup-buildx-action@v2
         with:
-          version: 'v0.4.2'
+          version: 'v0.36.1'
           install: true
 
       - name: Setup Go
