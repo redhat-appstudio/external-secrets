@@ -1,6 +1,6 @@
 module github.com/external-secrets/external-secrets-e2e
 
-go 1.18
+go 1.21
 
 replace github.com/external-secrets/external-secrets => ../
 
@@ -90,7 +90,7 @@ require (
 	github.com/fluxcd/pkg/apis/kustomize v0.4.1 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.0 // indirect
-	github.com/go-logr/logr v1.2.4 // indirect
+	github.com/go-logr/logr v1.4.1 // indirect
 	github.com/go-openapi/jsonpointer v0.19.6 // indirect
 	github.com/go-openapi/jsonreference v0.20.2 // indirect
 	github.com/go-openapi/swag v0.22.4 // indirect
@@ -161,7 +161,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	grpc.go4.org v0.0.0-20170609214715-11d0a25b4919 // indirect
 	k8s.io/component-base v0.27.3 // indirect
-	k8s.io/klog/v2 v2.100.1 // indirect
+	k8s.io/klog/v2 v2.140.0 // indirect
 	k8s.io/kube-openapi v0.0.0-20230523194449-df37dd07aa00 // indirect
 	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.3 // indirect
