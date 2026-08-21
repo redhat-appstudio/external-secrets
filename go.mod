@@ -1,6 +1,6 @@
 module github.com/external-secrets/external-secrets
 
-go 1.19
+go 1.26
 
 require (
 	cloud.google.com/go/iam v1.1.1
@@ -63,7 +63,7 @@ require github.com/1Password/connect-sdk-go v1.5.1
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.6.1
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.3.0
-	github.com/akeylesslabs/akeyless-go/v3 v3.3.12
+	github.com/akeylesslabs/akeyless-go/v5 v5.0.33
 	github.com/alibabacloud-go/darabonba-openapi/v2 v2.0.4
 	github.com/alibabacloud-go/kms-20160120/v3 v3.0.2
 	github.com/alibabacloud-go/openapi-util v0.1.0
