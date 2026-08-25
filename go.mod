@@ -9,7 +9,7 @@ require (
 	github.com/Azure/go-autorest/autorest v0.11.29
 	github.com/Azure/go-autorest/autorest/adal v0.9.23
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.12
-	github.com/AzureAD/microsoft-authentication-library-for-go v1.0.0
+	github.com/AzureAD/microsoft-authentication-library-for-go v1.9.0
 	github.com/IBM/go-sdk-core/v5 v5.13.4
 	github.com/IBM/secrets-manager-go-sdk/v2 v2.0.0
 	github.com/Masterminds/goutils v1.1.1 // indirect
@@ -72,7 +72,7 @@ require (
 	github.com/aliyun/credentials-go v1.3.0
 	github.com/avast/retry-go/v4 v4.3.4
 	github.com/cyberark/conjur-api-go v0.11.1
-	github.com/golang-jwt/jwt/v5 v5.0.0
+	github.com/golang-jwt/jwt/v5 v5.2.2
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/hashicorp/vault/api/auth/aws v0.4.1
 	github.com/keeper-security/secrets-manager-go/core v1.5.2
@@ -104,6 +104,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/tjfoc/gmsm v1.4.1 // indirect
 	github.com/zalando/go-keyring v0.2.3 // indirect
+	golang.org/x/sync v0.10.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230629202037-9506855d4529 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230629202037-9506855d4529 // indirect
 )
