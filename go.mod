@@ -8,7 +8,7 @@ require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.29
 	github.com/Azure/go-autorest/autorest/adal v0.9.23
-	github.com/Azure/go-autorest/autorest/azure/auth v0.5.12
+	github.com/Azure/go-autorest/autorest/azure/auth v0.5.13
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.0.0
 	github.com/IBM/go-sdk-core/v5 v5.13.4
 	github.com/IBM/secrets-manager-go-sdk/v2 v2.0.0
@@ -42,7 +42,7 @@ require (
 	github.com/yandex-cloud/go-sdk v0.0.0-20230628143705-2a8cf9425a6f
 	github.com/youmark/pkcs8 v0.0.0-20201027041543-1326539a0a0a
 	go.uber.org/zap v1.24.0
-	golang.org/x/crypto v0.10.0
+	golang.org/x/crypto v0.17.0
 	golang.org/x/oauth2 v0.9.0
 	google.golang.org/api v0.129.0
 	google.golang.org/genproto v0.0.0-20230629202037-9506855d4529 // indirect
@@ -210,9 +210,9 @@ require (
 	golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df
 	golang.org/x/mod v0.11.0 // indirect
 	golang.org/x/net v0.11.0 // indirect
-	golang.org/x/sys v0.9.0 // indirect
-	golang.org/x/term v0.9.0 // indirect
-	golang.org/x/text v0.10.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/term v0.15.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.10.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.3.0 // indirect
