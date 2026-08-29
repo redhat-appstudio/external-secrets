@@ -6,7 +6,7 @@ replace github.com/external-secrets/external-secrets => ../
 
 replace (
 	github.com/external-secrets/external-secrets v0.0.0 => ../
-	github.com/go-check/check => github.com/go-check/check v0.0.0-20180628173108-788fd7840127
+	github.com/go-check/check => github.com/go-check/check v0.0.0-20201130134442-10cb98267c6c
 	k8s.io/api => k8s.io/api v0.27.1
 	k8s.io/apiextensions-apiserver => k8s.io/apiextensions-apiserver v0.27.1
 	k8s.io/apimachinery => k8s.io/apimachinery v0.27.1
