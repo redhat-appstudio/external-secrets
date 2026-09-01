@@ -32,7 +32,7 @@ runs:
         cosign-release: v1.12.1
 
     - name: Install Syft
-      uses: anchore/sbom-action/download-syft@v0.7.0
+      uses: anchore/sbom-action/download-syft@v0.24.2
 
     - name: Check Cosign install
       shell: bash
