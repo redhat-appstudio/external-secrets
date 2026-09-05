@@ -39,7 +39,7 @@ require (
 	github.com/tidwall/gjson v1.14.4
 	github.com/xanzy/go-gitlab v0.86.0
 	github.com/yandex-cloud/go-genproto v0.0.0-20230628143002-ac2343960883
-	github.com/yandex-cloud/go-sdk v0.0.0-20230628143705-2a8cf9425a6f
+	github.com/yandex-cloud/go-sdk/v2 v2.169.0
 	github.com/youmark/pkcs8 v0.0.0-20201027041543-1326539a0a0a
 	go.uber.org/zap v1.24.0
 	golang.org/x/crypto v0.10.0
