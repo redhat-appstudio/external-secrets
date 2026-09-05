@@ -44,7 +44,7 @@ require (
 	github.com/aliyun/alibaba-cloud-sdk-go v1.62.271
 	github.com/aws/aws-sdk-go v1.44.294
 	github.com/external-secrets/external-secrets v0.0.0
-	github.com/fluxcd/helm-controller/api v0.22.2
+	github.com/fluxcd/helm-controller/api v1.6.4
 	github.com/fluxcd/pkg/apis/meta v0.14.2
 	github.com/fluxcd/source-controller/api v0.25.11
 	github.com/golang-jwt/jwt/v4 v4.5.0
