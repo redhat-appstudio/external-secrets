@@ -11,7 +11,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM alpine:3.11
+FROM alpine:3.20
 COPY requirements.txt /
 RUN apk add -U --no-cache \
     python3 \
