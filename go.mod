@@ -1,6 +1,6 @@
 module github.com/external-secrets/external-secrets
 
-go 1.19
+go 1.21
 
 require (
 	cloud.google.com/go/iam v1.1.1
@@ -94,7 +94,7 @@ require (
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/clbanning/mxj/v2 v2.5.7 // indirect
 	github.com/danieljoos/wincred v1.2.0 // indirect
-	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
+	github.com/gabriel-vasile/mimetype v1.4.15 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.0 // indirect
 	github.com/go-playground/validator/v10 v10.14.1 // indirect
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
