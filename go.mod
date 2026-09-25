@@ -1,6 +1,6 @@
 module github.com/external-secrets/external-secrets
 
-go 1.19
+go 1.25.13
 
 require (
 	cloud.google.com/go/iam v1.1.1
@@ -100,7 +100,7 @@ require (
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/google/s2a-go v0.1.4 // indirect
 	github.com/hashicorp/go-secure-stdlib/awsutil v0.2.2 // indirect
-	github.com/hashicorp/go-uuid v1.0.3 // indirect
+	github.com/hashicorp/go-uuid v1.0.4 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/tjfoc/gmsm v1.4.1 // indirect
 	github.com/zalando/go-keyring v0.2.3 // indirect
