@@ -20,7 +20,7 @@ import (
 	"fmt"
 
 	openapi "github.com/alibabacloud-go/darabonba-openapi/v2/client"
-	kmssdk "github.com/alibabacloud-go/kms-20160120/v3/client"
+	kmssdk "github.com/alibabacloud-go/kms-20160120/v4/client"
 	util "github.com/alibabacloud-go/tea-utils/v2/service"
 	credential "github.com/aliyun/credentials-go/credentials"
 	"github.com/avast/retry-go/v4"
