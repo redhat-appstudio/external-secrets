@@ -33,7 +33,7 @@ import (
 	"github.com/Azure/go-autorest/autorest/azure"
 	kvauth "github.com/Azure/go-autorest/autorest/azure/auth"
 	"github.com/AzureAD/microsoft-authentication-library-for-go/apps/confidential"
-	"github.com/lestrrat-go/jwx/jwk"
+	"github.com/lestrrat-go/jwx/v4/jwk"
 	"github.com/tidwall/gjson"
 	"golang.org/x/crypto/pkcs12"
 	"golang.org/x/crypto/sha3"
