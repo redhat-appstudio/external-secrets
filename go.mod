@@ -72,7 +72,7 @@ require (
 	github.com/aliyun/credentials-go v1.3.0
 	github.com/avast/retry-go/v4 v4.3.4
 	github.com/cyberark/conjur-api-go v0.11.1
-	github.com/golang-jwt/jwt/v5 v5.0.0
+	github.com/golang-jwt/jwt/v5 v5.2.2
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/hashicorp/vault/api/auth/aws v0.4.1
 	github.com/keeper-security/secrets-manager-go/core v1.5.2
