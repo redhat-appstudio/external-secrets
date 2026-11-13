@@ -58,7 +58,7 @@ require (
 	sigs.k8s.io/controller-tools v0.12.0
 )
 
-require github.com/1Password/connect-sdk-go v1.5.1
+require github.com/1Password/connect-sdk-go v1.5.3
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.6.1
